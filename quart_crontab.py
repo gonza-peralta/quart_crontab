@@ -7,7 +7,7 @@
     :email: peraltag@gmail.com
     :license: MIT
 
-    Copyright (c) 2021 Gonzalo Peralta
+    Copyright (c) 2022 Gonzalo Peralta
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
